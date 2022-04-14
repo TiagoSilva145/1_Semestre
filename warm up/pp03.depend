@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1560348331 source:c:\users\a2023644\desktop\nova pasta\projeto pratico 3\pp03\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1560348331 c:\users\a2023644\desktop\nova pasta\projeto pratico 3\pp03\imagem.h
+
+1560613099 source:c:\users\a2023644\desktop\nova pasta\projeto pratico 3\pp03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"imagem.h"
+
+1560615124 source:c:\users\a2023644\desktop\nova pasta\projeto pratico 3\pp03\projetoimagens.c
+	<stdio.h>
+	<stdlib.h>
+	"projetoImagens.h"
+
+1560348330 c:\users\a2023644\desktop\nova pasta\projeto pratico 3\pp03\projetoimagens.h
+	"imagem.h"
+
+1560348331 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1560348331 c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\imagem.h
+
+1561220975 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"imagem.h"
+
+1561222041 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\projetoimagens.c
+	<stdio.h>
+	<stdlib.h>
+	"projetoImagens.h"
+
+1560348330 c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\projetoimagens.h
+	"imagem.h"
+
+1560348331 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\warm up\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1560348331 c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\warm up\imagem.h
+
+1561637653 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\warm up\main.c
+	<stdio.h>
+	<stdlib.h>
+	"imagem.h"
+
+1561637522 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\warm up\projetoimagens.c
+	<stdio.h>
+	<stdlib.h>
+	"projetoImagens.h"
+
+1560348330 c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\warm up\projetoimagens.h
+	"imagem.h"
+
