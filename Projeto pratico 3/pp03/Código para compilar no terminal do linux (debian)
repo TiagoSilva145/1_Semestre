@@ -1,0 +1,1 @@
+gcc -c main.c -lm; gcc -c gerador_de_testes.c -lm; gcc -c gerador_de_testes.h -lm; gcc -c imagem.c -lm; gcc -c imagem.h -lm; gcc -c prjFinal-x-y-z.c -lm; gcc -o monstrinho main.o gerador_de_testes.c gerador_de_testes.h imagem.c imagem.h prjFinal-x-y-z.c -lm; ./monstrinho

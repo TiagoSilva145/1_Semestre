@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1561844542 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\pp03\gerador_de_testes.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1560776957 c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\pp03\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1560776957 c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\pp03\imagem.h
+
+1560776957 c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\pp03\trabalho3.h
+	"imagem.h"
+
+1561746022 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\pp03\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+	"trabalho3.h"
+
+1561904107 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\pp03\main.c
+	<stdio.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1560776958 source:c:\users\a2023644\desktop\projeto 3\pp03\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1560776957 c:\users\a2023644\desktop\projeto 3\pp03\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1560776957 c:\users\a2023644\desktop\projeto 3\pp03\imagem.h
+
+1560776957 c:\users\a2023644\desktop\projeto 3\pp03\trabalho3.h
+	"imagem.h"
+
+1561745478 source:c:\users\a2023644\desktop\projeto 3\pp03\main.c
+	<stdio.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1561745464 source:c:\users\a2023644\desktop\projeto 3\pp03\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+	"trabalho3.h"
+
+1561745948 source:c:\users\a2023644\desktop\projeto 3\pp03\prjfinal-x-y-z.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+	"trabalho3.h"
+
+1561903798 source:c:\users\avell 1513\desktop\quase tudo\utfpr - bsi\fundamentos da programação\projeto pratico 3\pp03\prjfinal-x-y-z.c
+	<stdlib.h>
+	<math.h>
+	"imagem.h"
+	"trabalho3.h"
+
+1561844542 source:c:\users\tiago\desktop\tudo\utfpr - bsi\1º semestre\fundamentos da programação 1\projeto pratico 3\pp03\gerador_de_testes.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1560776957 c:\users\tiago\desktop\tudo\utfpr - bsi\1º semestre\fundamentos da programação 1\projeto pratico 3\pp03\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1560776957 c:\users\tiago\desktop\tudo\utfpr - bsi\1º semestre\fundamentos da programação 1\projeto pratico 3\pp03\imagem.h
+
+1560776957 c:\users\tiago\desktop\tudo\utfpr - bsi\1º semestre\fundamentos da programação 1\projeto pratico 3\pp03\trabalho3.h
+	"imagem.h"
+
+1561746022 source:c:\users\tiago\desktop\tudo\utfpr - bsi\1º semestre\fundamentos da programação 1\projeto pratico 3\pp03\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+	"trabalho3.h"
+
+1621350217 source:c:\users\tiago\desktop\tudo\utfpr - bsi\1º semestre\fundamentos da programação 1\projeto pratico 3\pp03\main.c
+	<stdio.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1561909494 source:c:\users\tiago\desktop\tudo\utfpr - bsi\1º semestre\fundamentos da programação 1\projeto pratico 3\pp03\prjfinal-x-y-z.c
+	<stdlib.h>
+	<math.h>
+	"imagem.h"
+	"trabalho3.h"
+
